@@ -1,0 +1,15 @@
+/Users/almir/Desktop/Семинар C#/Task_03/obj/Debug/net6.0/Task_03.csproj.AssemblyReference.cache
+/Users/almir/Desktop/Семинар C#/Task_03/obj/Debug/net6.0/Task_03.GeneratedMSBuildEditorConfig.editorconfig
+/Users/almir/Desktop/Семинар C#/Task_03/obj/Debug/net6.0/Task_03.AssemblyInfoInputs.cache
+/Users/almir/Desktop/Семинар C#/Task_03/obj/Debug/net6.0/Task_03.AssemblyInfo.cs
+/Users/almir/Desktop/Семинар C#/Task_03/obj/Debug/net6.0/Task_03.csproj.CoreCompileInputs.cache
+/Users/almir/Desktop/Семинар C#/Task_03/bin/Debug/net6.0/Task_03
+/Users/almir/Desktop/Семинар C#/Task_03/bin/Debug/net6.0/Task_03.deps.json
+/Users/almir/Desktop/Семинар C#/Task_03/bin/Debug/net6.0/Task_03.runtimeconfig.json
+/Users/almir/Desktop/Семинар C#/Task_03/bin/Debug/net6.0/Task_03.dll
+/Users/almir/Desktop/Семинар C#/Task_03/bin/Debug/net6.0/Task_03.pdb
+/Users/almir/Desktop/Семинар C#/Task_03/obj/Debug/net6.0/Task_03.dll
+/Users/almir/Desktop/Семинар C#/Task_03/obj/Debug/net6.0/refint/Task_03.dll
+/Users/almir/Desktop/Семинар C#/Task_03/obj/Debug/net6.0/Task_03.pdb
+/Users/almir/Desktop/Семинар C#/Task_03/obj/Debug/net6.0/Task_03.genruntimeconfig.cache
+/Users/almir/Desktop/Семинар C#/Task_03/obj/Debug/net6.0/ref/Task_03.dll

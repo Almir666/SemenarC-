@@ -1,0 +1,5 @@
+/Users/almir/Desktop/Семинар C#/Task_04/obj/Debug/net6.0/Task_04.csproj.AssemblyReference.cache
+/Users/almir/Desktop/Семинар C#/Task_04/obj/Debug/net6.0/Task_04.GeneratedMSBuildEditorConfig.editorconfig
+/Users/almir/Desktop/Семинар C#/Task_04/obj/Debug/net6.0/Task_04.AssemblyInfoInputs.cache
+/Users/almir/Desktop/Семинар C#/Task_04/obj/Debug/net6.0/Task_04.AssemblyInfo.cs
+/Users/almir/Desktop/Семинар C#/Task_04/obj/Debug/net6.0/Task_04.csproj.CoreCompileInputs.cache

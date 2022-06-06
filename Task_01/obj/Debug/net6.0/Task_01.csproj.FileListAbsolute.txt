@@ -1,0 +1,15 @@
+/Users/almir/Desktop/Семинар C#/Task_01/bin/Debug/net6.0/Task_01
+/Users/almir/Desktop/Семинар C#/Task_01/bin/Debug/net6.0/Task_01.deps.json
+/Users/almir/Desktop/Семинар C#/Task_01/bin/Debug/net6.0/Task_01.runtimeconfig.json
+/Users/almir/Desktop/Семинар C#/Task_01/bin/Debug/net6.0/Task_01.dll
+/Users/almir/Desktop/Семинар C#/Task_01/bin/Debug/net6.0/Task_01.pdb
+/Users/almir/Desktop/Семинар C#/Task_01/obj/Debug/net6.0/Task_01.csproj.AssemblyReference.cache
+/Users/almir/Desktop/Семинар C#/Task_01/obj/Debug/net6.0/Task_01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/almir/Desktop/Семинар C#/Task_01/obj/Debug/net6.0/Task_01.AssemblyInfoInputs.cache
+/Users/almir/Desktop/Семинар C#/Task_01/obj/Debug/net6.0/Task_01.AssemblyInfo.cs
+/Users/almir/Desktop/Семинар C#/Task_01/obj/Debug/net6.0/Task_01.csproj.CoreCompileInputs.cache
+/Users/almir/Desktop/Семинар C#/Task_01/obj/Debug/net6.0/Task_01.dll
+/Users/almir/Desktop/Семинар C#/Task_01/obj/Debug/net6.0/refint/Task_01.dll
+/Users/almir/Desktop/Семинар C#/Task_01/obj/Debug/net6.0/Task_01.pdb
+/Users/almir/Desktop/Семинар C#/Task_01/obj/Debug/net6.0/Task_01.genruntimeconfig.cache
+/Users/almir/Desktop/Семинар C#/Task_01/obj/Debug/net6.0/ref/Task_01.dll
